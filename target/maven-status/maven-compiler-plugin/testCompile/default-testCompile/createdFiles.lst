@@ -1,0 +1,7 @@
+stepDefinitions\LoginSteps.class
+pageObjects\LoginPage.class
+testRunner\TestRunner.class
+pageObjects\CustomerPage.class
+stepDefinitions\BaseClass.class
+pageObjects\AddNewCustomerPage.class
+pageObjects\DashboardPage.class

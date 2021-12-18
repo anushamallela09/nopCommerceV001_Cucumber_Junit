@@ -1,0 +1,112 @@
+2021-12-17 19:42:26.885 INFO [main] [stepDefinitions.LoginSteps.user_launch_chrome_browser(LoginSteps.java:27)] - launch browser
+2021-12-17 19:42:30.358 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:35)] - openurl
+2021-12-17 19:42:33.047 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:41)] - Enter user details
+2021-12-17 19:42:33.109 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:49)] - Dashboard page is displayed
+2021-12-17 19:42:41.618 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:91)] - Added New Customer
+2021-12-17 19:42:41.656 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:97)] - Customer added success message
+2021-12-17 19:42:41.658 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:74)] - close browser
+2021-12-17 19:43:52.412 INFO [main] [stepDefinitions.LoginSteps.user_launch_chrome_browser(LoginSteps.java:27)] - launch browser
+2021-12-17 19:43:54.553 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:35)] - openurl
+2021-12-17 19:43:57.570 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:41)] - Enter user details
+2021-12-17 19:43:57.591 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:49)] - Dashboard page is displayed
+2021-12-17 19:44:03.479 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:91)] - Added New Customer
+2021-12-17 19:44:03.505 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:97)] - Customer added success message
+2021-12-17 19:44:03.506 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:74)] - close browser
+2021-12-17 21:00:33.564 INFO [main] [stepDefinitions.BaseClass.setup(BaseClass.java:43)] - Launched Chrome Browser
+2021-12-17 21:01:10.985 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:01:11.941 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:01:16.134 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:01:16.159 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:01:25.371 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:117)] - Added New Customer
+2021-12-17 21:01:25.407 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:123)] - Customer added success message
+2021-12-17 21:01:25.408 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:13:32.496 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:13:33.434 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:13:36.006 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:13:36.049 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:13:41.890 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:117)] - Added New Customer
+2021-12-17 21:13:41.929 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:123)] - Customer added success message
+2021-12-17 21:13:41.930 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:17:19.225 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:46)] - Launched Firefox Browser
+2021-12-17 21:17:20.182 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:17:22.675 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:17:22.741 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:17:44.774 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:46)] - Launched Firefox Browser
+2021-12-17 21:17:45.664 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:17:47.527 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:17:47.549 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:18:17.294 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:42)] - Launched Edge Browser
+2021-12-17 21:18:18.292 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:18:20.627 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:18:20.721 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:18:26.697 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:117)] - Added New Customer
+2021-12-17 21:18:26.759 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:123)] - Customer added success message
+2021-12-17 21:18:26.760 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:22:53.653 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:42)] - Launched Edge Browser
+2021-12-17 21:23:02.775 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:23:09.371 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:23:09.397 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:23:09.399 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 21:23:10.888 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:33:20.412 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:33:21.291 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:33:23.842 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:33:23.865 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:33:23.867 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 21:33:24.572 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:36:51.576 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:36:52.428 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:36:55.055 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:36:55.076 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:36:55.077 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 21:36:56.139 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:37:27.456 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:37:28.319 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:37:30.592 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:37:30.614 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:37:30.615 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 21:37:31.279 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:37:45.429 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:37:46.318 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:37:48.631 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:37:48.653 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:37:48.655 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 21:37:49.727 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 21:38:22.428 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 21:38:23.331 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 21:38:25.699 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 21:38:25.721 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 21:38:25.723 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 21:38:26.679 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 22:01:58.697 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 22:01:59.543 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 22:02:02.096 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 22:02:02.119 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 22:02:02.120 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 22:02:02.938 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 22:02:45.627 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 22:02:46.589 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 22:02:49.019 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 22:02:49.071 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 22:02:58.932 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:117)] - Added New Customer
+2021-12-17 22:02:59.396 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:123)] - Customer added success message
+2021-12-17 22:02:59.407 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 22:03:08.239 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 22:03:10.797 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 22:03:24.377 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 22:03:24.598 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 22:03:24.598 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 22:03:25.975 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 22:05:35.327 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 22:05:36.207 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 22:05:38.887 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 22:05:38.908 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 22:05:44.775 INFO [main] [stepDefinitions.LoginSteps.click_on_add_new_customer_page_and_user_can_view_add_customer_page(LoginSteps.java:117)] - Added New Customer
+2021-12-17 22:05:44.817 INFO [main] [stepDefinitions.LoginSteps.verify_Success_Message(LoginSteps.java:123)] - Customer added success message
+2021-12-17 22:05:44.818 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
+2021-12-17 22:05:45.957 INFO [main] [stepDefinitions.LoginSteps.setup(LoginSteps.java:37)] - Launched Chrome Browser
+2021-12-17 22:05:47.192 INFO [main] [stepDefinitions.LoginSteps.user_opens_url(LoginSteps.java:61)] - openurl
+2021-12-17 22:05:49.267 INFO [main] [stepDefinitions.LoginSteps.user_enters_email_as_and_password_as(LoginSteps.java:67)] - Enter user details
+2021-12-17 22:05:49.300 INFO [main] [stepDefinitions.LoginSteps.page_title_should_be(LoginSteps.java:75)] - Dashboard page is displayed
+2021-12-17 22:05:49.301 INFO [main] [stepDefinitions.LoginSteps.user_click_on_log_out_link(LoginSteps.java:84)] - Log out from application
+2021-12-17 22:05:50.335 INFO [main] [stepDefinitions.LoginSteps.close_browser(LoginSteps.java:100)] - close browser
